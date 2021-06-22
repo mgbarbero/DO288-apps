@@ -33,7 +33,7 @@ pipeline {
 
  }
   
-
+}
 stage('manual approval') {
 
  steps {
